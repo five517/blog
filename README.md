@@ -2,8 +2,6 @@
 
 这是一个基于springboot的简易个人博客网站，主要是实现个人博客的增删改查相关的功能。
 
-![Java](https://img.shields.io/badge/language-Java-brightgreen.svg?style=plastic)![Java](https://img.shields.io/badge/frame-SpringBoot-brightgreen.svg?style=plastic)![](https://img.shields.io/badge/frame-Semantic UI-brightgreen.svg?style=plastic)![](https://img.shields.io/badge/database-MySQL-brightgreen.svg?style=plastic)
-
 ## 主要功能：
 
 - 文章，页面，分类目录，标签的添加，删除，编辑等。文章、评论及页面支持`Markdown`，支持代码高亮。
