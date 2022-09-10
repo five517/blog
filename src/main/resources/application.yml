@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+  messages:
+    basename: i18n/messages
+#  thymeleaf:
+#    cache: true
+
+comment.avatar: /images/avatar.png
